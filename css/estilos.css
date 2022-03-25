@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+body {
+    background-color:rgb(182, 255, 255)
+}
+
+h1 {
+    font-size:40px;
+}
+
+h2 {
+    font-family: 'Arvo', serif;
+    color: darkred;
+    font-size: 25px;
+}
+
+h3 {
+    font-family: 'Hurricane', cursive;
+    font-size: 25px;
+    color: rgb(76, 151, 0);
+}
+
+p {
+    font-family: 'Noto Serif', serif;
+    font-size: 17px;
+    color:darkslategrey
+}
+
+.container{
+    color: aliceblue;
+    background-color: brown;
+    height: 200px;
+    margin: 10px;
+    padding: 2px;
+    width: 250px;
+}
+
+.Bomdia {
+    font-family: 'Amatic SC', cursive;
+    color: chartreuse;
+    background-color: black;
+    height: 200px;
+    margin: 10px;
+    padding: 6px;
+    width: 250px;
+}
+
+.titulo {
+    color: cornflowerblue;
+    background-color: black;
+    height: 100px;
+    margin: 10px;
+    padding: 6px;
+    width: 400px;
+}
+
