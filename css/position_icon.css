@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+.input-container {
+    /*background-color: purple;*/
+    position: relative;
+    margin: 100px;
+}
+
+input {
+    /*alarga pa cima*/
+    height: 45px;
+    /*alarga po lado*/
+    width: 300px;
+    /*pega a palavra e joga po lado*/
+    padding-left: 45px;
+}
+
+/*configurar o icone*/
+svg {
+    position: absolute;
+    left: 10px;
+    /*Deixa o icone no meio*/
+    top:calc(50% - 12px);
+}
